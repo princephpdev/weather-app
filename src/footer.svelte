@@ -26,7 +26,7 @@
 				height="24"
 			/>
 		</a>
-		<a href="https://facebook.com">
+		<a href="https://princek.netlify.app/">
 			<img
 				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg"
 				alt="personal website"
